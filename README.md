@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a student currently enrolled in my fourth year, studyi
 
 ## 🚀 Current Projects
 - **Discord Bot for keeping track of football game predictions and results.**
-- **Machine learning model for predicting outcomes of football games**: Still very much a work in progress, in its conceptualizing stage.
+- **A model for predicting outcomes of football games. Planning on implementing machine learning during christmas!**:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
